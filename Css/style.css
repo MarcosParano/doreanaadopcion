@@ -56,12 +56,12 @@ a{
 
 
 .fondo__Home{
-    background-image: url("Images/fondo2.jpg");
+    background-image: url("../Images/fondo2.jpg");
     background-size: auto;
 }
 
 .fondo__Pages{
-    background-image: url("/Images/fondo2.jpg");
+    background-image: url("../Images/fondo2.jpg");
     background-size: auto;
 
 }
